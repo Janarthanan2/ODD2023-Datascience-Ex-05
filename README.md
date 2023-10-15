@@ -138,13 +138,9 @@ df4
 ## OUTPUT
 ## (i) Data.csv
 
-![ss](https://user-images.githubusercontent.com/118707079/232985316-8b2b5676-037c-4230-a839-80c76a54b51f.jpg)
+<img src="https://user-images.githubusercontent.com/118707079/232985316-8b2b5676-037c-4230-a839-80c76a54b51f.jpg" >
 
-![ss1](https://user-images.githubusercontent.com/118707079/232985325-5ca12edf-2558-42a1-964d-798ef20d26cd.jpg)
-
-![ss2](https://user-images.githubusercontent.com/118707079/232985360-4c6a3590-6e13-4770-ad13-d54559bfc497.jpg)
-
-![ss3](https://user-images.githubusercontent.com/118707079/232985378-5c03e91a-042d-464b-baf2-6273b0ff9e51.jpg)
+<img src="https://user-images.githubusercontent.com/118707079/232985325-5ca12edf-2558-42a1-964d-798ef20d26cd.jpg" width=250 height=350><img src="https://user-images.githubusercontent.com/118707079/232985360-4c6a3590-6e13-4770-ad13-d54559bfc497.jpg" width=250 height=350><img src="https://user-images.githubusercontent.com/118707079/232985378-5c03e91a-042d-464b-baf2-6273b0ff9e51.jpg">
 
 ## Minmax scaling:
 
