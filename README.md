@@ -141,7 +141,7 @@ df2
 
 ## (iii) BMI.csv
 - Initial data:<br>
-<img src="https://github.com/Janarthanan2/ODD2023-Datascience-Ex-05/assets/119393515/47624b9f-afbf-413a-a481-080fe2b7614b" height=250 width=250>
+<img src="https://github.com/Janarthanan2/ODD2023-Datascience-Ex-05/assets/119393515/47624b9f-afbf-413a-a481-080fe2b7614b" height=250 width=300>
 
 - Binary Encoder:<br>
 <img src="https://github.com/Janarthanan2/ODD2023-Datascience-Ex-05/assets/119393515/3e9dddb0-5201-4bec-9938-7a7ac5bebd74" height=150 width=350>
