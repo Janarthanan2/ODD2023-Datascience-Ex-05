@@ -136,8 +136,8 @@ df2
 <img src="https://github.com/Janarthanan2/ODD2023-Datascience-Ex-05/assets/119393515/6d06a2dd-b136-491b-9bed-c84028d1f14d" height=350 width=250>
 
 - Binary Encoder:<br>
-<img src="" height=250 width=250>
-<img src="" height=250 width=250>
+<img src="https://github.com/Janarthanan2/ODD2023-Datascience-Ex-05/assets/119393515/4ba2a8ba-cb12-46f2-b74b-39d2393c7d0e" height=250 width=250>
+<img src="https://github.com/Janarthanan2/ODD2023-Datascience-Ex-05/assets/119393515/195af4af-0fc1-49d9-a110-466a673c2acf" height=250 width=250>
 
 ## (iii) BMI.csv
 <img src="" height=250 width=250>
