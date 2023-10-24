@@ -130,11 +130,11 @@ df2
 <img src="https://github.com/Janarthanan2/ODD2023-Datascience-Ex-05/assets/119393515/5ec8f4f4-3487-49ba-8ab1-56b9d7be57ea">
 
 - Original Encoder:<br>
-<img src="" height=150 width=350>
-<img src="" height=150 width=350>
+<img src="" height=150 width=250>
+<img src="" height=150 width=250>
 
 - Label Encoder:<br>
-<img src="" height=150 width=350>
+<img src="" height=150 width=250>
 
 - Binary Encoder:<br>
 <img src="" height=250 width=250>
