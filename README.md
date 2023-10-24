@@ -124,7 +124,7 @@ df2
 
 ## (ii) Encoding data.csv
 - Initial data:<br>
-<img src="https://github.com/Janarthanan2/ODD2023-Datascience-Ex-05/assets/119393515/7f18f90e-2783-4c94-9812-4b00cddffa55" height=150 width=350>
+<img src="https://github.com/Janarthanan2/ODD2023-Datascience-Ex-05/assets/119393515/7f18f90e-2783-4c94-9812-4b00cddffa55" height=150 width=250>
 
 - Unique data:<br>
 <img src="https://github.com/Janarthanan2/ODD2023-Datascience-Ex-05/assets/119393515/5ec8f4f4-3487-49ba-8ab1-56b9d7be57ea">
