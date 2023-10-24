@@ -144,7 +144,7 @@ df2
 <img src="https://github.com/Janarthanan2/ODD2023-Datascience-Ex-05/assets/119393515/47624b9f-afbf-413a-a481-080fe2b7614b" height=250 width=300>
 
 - Binary Encoder:<br>
-<img src="https://github.com/Janarthanan2/ODD2023-Datascience-Ex-05/assets/119393515/3e9dddb0-5201-4bec-9938-7a7ac5bebd74" height=150 width=350>
+<img src="https://github.com/Janarthanan2/ODD2023-Datascience-Ex-05/assets/119393515/3e9dddb0-5201-4bec-9938-7a7ac5bebd74" height=250 width=350>
 
 - Dummies:<br>
 <img src="https://github.com/Janarthanan2/ODD2023-Datascience-Ex-05/assets/119393515/9b98e8fe-d3d1-4256-a3ec-2721994bda27" height=250 width=250>
