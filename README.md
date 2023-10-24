@@ -126,7 +126,7 @@ df2
 - Initial data:<br>
 <img src="https://github.com/Janarthanan2/ODD2023-Datascience-Ex-05/assets/119393515/7f18f90e-2783-4c94-9812-4b00cddffa55" height=150 width=250>
 
-- Unique data:<br>
+- Unique data:<br>Dummies
 <img src="https://github.com/Janarthanan2/ODD2023-Datascience-Ex-05/assets/119393515/5ec8f4f4-3487-49ba-8ab1-56b9d7be57ea">
 
 - Original Encoder:<br>
@@ -140,7 +140,15 @@ df2
 <img src="https://github.com/Janarthanan2/ODD2023-Datascience-Ex-05/assets/119393515/195af4af-0fc1-49d9-a110-466a673c2acf" height=250 width=250>
 
 ## (iii) BMI.csv
-<img src="" height=250 width=250>
+- Initial data:<br>
+<img src="https://github.com/Janarthanan2/ODD2023-Datascience-Ex-05/assets/119393515/47624b9f-afbf-413a-a481-080fe2b7614b" height=250 width=250>
+
+- Binary Encoder:<br>
+<img src="https://github.com/Janarthanan2/ODD2023-Datascience-Ex-05/assets/119393515/3e9dddb0-5201-4bec-9938-7a7ac5bebd74" height=150 width=350>
+
+- Dummies:<br>
+<img src="https://github.com/Janarthanan2/ODD2023-Datascience-Ex-05/assets/119393515/9b98e8fe-d3d1-4256-a3ec-2721994bda27" height=250 width=250>
+
 
 ## Result:
 Thus the Feature Generation and Feature Scaling process is applied to the given data set.
