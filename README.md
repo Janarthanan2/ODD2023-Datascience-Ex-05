@@ -106,7 +106,7 @@ df2
 ## OUTPUT
 ## (i) Data.csv
 - Initial data:<br>
-<img src="https://github.com/Janarthanan2/ODD2023-Datascience-Ex-05/assets/119393515/ddebf336-fb4a-45f8-ae2f-105cde4306d1" height=250 width=350>
+<img src="https://github.com/Janarthanan2/ODD2023-Datascience-Ex-05/assets/119393515/ddebf336-fb4a-45f8-ae2f-105cde4306d1" height=150 width=350>
 
 - Unique data:<br>
 <img src="https://github.com/Janarthanan2/ODD2023-Datascience-Ex-05/assets/119393515/63bedcca-5098-46cb-a4ee-b9f30e46e0f8">
