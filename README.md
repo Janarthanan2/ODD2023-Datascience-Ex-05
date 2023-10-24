@@ -112,15 +112,15 @@ df2
 <img src="https://github.com/Janarthanan2/ODD2023-Datascience-Ex-05/assets/119393515/63bedcca-5098-46cb-a4ee-b9f30e46e0f8">
 
 - Original Encoder:<br>
-<img src="https://github.com/Janarthanan2/ODD2023-Datascience-Ex-05/assets/119393515/a1d8f594-138d-40ca-8bd6-34fc61aea169">
-<img src="https://github.com/Janarthanan2/ODD2023-Datascience-Ex-05/assets/119393515/82ba85de-0a39-45ba-9320-625cdfef09e5">
+<img src="https://github.com/Janarthanan2/ODD2023-Datascience-Ex-05/assets/119393515/a1d8f594-138d-40ca-8bd6-34fc61aea169" height=150 width=350>
+<img src="https://github.com/Janarthanan2/ODD2023-Datascience-Ex-05/assets/119393515/82ba85de-0a39-45ba-9320-625cdfef09e5" height=150 width=350>
 
 - Label Encoder:<br>
-<img src="https://github.com/Janarthanan2/ODD2023-Datascience-Ex-05/assets/119393515/b9d90f43-9965-4308-b874-93ed47a9f086">
+<img src="https://github.com/Janarthanan2/ODD2023-Datascience-Ex-05/assets/119393515/b9d90f43-9965-4308-b874-93ed47a9f086" height=150 width=350>
 
 - Binary Encoder:<br>
-<img src="https://github.com/Janarthanan2/ODD2023-Datascience-Ex-05/assets/119393515/f909b514-5252-48f4-8777-d64923f523fd">
-<img src="https://github.com/Janarthanan2/ODD2023-Datascience-Ex-05/assets/119393515/911205b9-1133-4d12-9f23-76ae4986ab8d">
+<img src="https://github.com/Janarthanan2/ODD2023-Datascience-Ex-05/assets/119393515/f909b514-5252-48f4-8777-d64923f523fd" height=150 width=350>
+<img src="https://github.com/Janarthanan2/ODD2023-Datascience-Ex-05/assets/119393515/911205b9-1133-4d12-9f23-76ae4986ab8d" height=150 width=350>
 
 ## (ii) Encoding data.csv
 <img src="" height=250 width=250>
